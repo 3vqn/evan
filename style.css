@@ -1,0 +1,283 @@
+.containernav{
+    background-color: #121212;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    text-wrap: wrap ;
+}
+
+.navbarnav{
+    margin-top: -17px;
+}
+.teks a{
+    color: #a1a1a2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+}
+.teks a{
+    text-decoration: none;
+}
+ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.teks{
+    margin-top: -45px;
+}
+.logo img{
+    width: 21px;
+    align-content: center;
+}
+
+.containernav{
+    height: 40px;
+    justify-content: space-around;
+}
+
+.teks a{
+    padding: 8px;
+}
+
+ul li{
+    margin-top: 7px;
+}
+
+.logo{
+    margin-top: 4px;
+    margin-left: -15px;
+}
+
+.logo23 ul li{
+    display: inline-block;
+}
+
+.logo23{
+    float: right;
+    margin-right: -90px;
+    margin-top: -78px;
+}
+
+.bag{
+    margin-left: 35px;
+    margin-right: -20px;
+}
+
+.search{
+    margin-right: -50px;
+}
+
+.navbarnav{
+    margin-left: -95px;
+}
+
+.teks a:hover{
+    color: white;
+}
+.navbarnav{
+    margin-left: -76px;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: white;
+}
+
+.main .jumbotron .mainHeader{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    align-items: center;
+    background-color: black;
+}
+
+.main .jumbotron .mainHeader .text h1{
+    color: white !important;
+}
+
+.main .jumbotron .mainHeader img{
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.main .banner{
+    background-image: url(images/bannermac.png);
+    height: 900px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+img{
+    transition: transform .1s ease-in-out;
+}
+.image img:hover{
+    transform: rotate(360deg);
+}
+
+img{
+    margin-top: 20px;
+}
+
+.main .banner .container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.main .banner .container .link a:hover{
+    text-decoration: underline;
+}
+
+
+.link h4{
+    margin-top: -20px;
+}
+
+.main .banner .container h1{
+    font-size: 50px;
+    font-weight: 550;
+}
+
+.main .banner .container h4{
+    font-size: 25px;
+    font-weight: 200;
+}
+
+.main .banner .container .link a{
+    color: rgb(0, 157, 255);
+    padding: 15px;
+    text-decoration: none;
+}
+
+.link a{
+    color: inherit;
+}
+
+.container h4{
+    margin-top: -20px;
+}
+
+.link a{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+.link{
+    margin-top: -10px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+    align-items: center;
+    bottom: 0;
+}
+
+.footer div{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.footer a{
+    margin-top: 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: 100;
+}
+
+.footer h3{
+    font-weight: 200;
+}
+
+.footer h3{
+    font-weight: 600;   
+}
+
+.containerbanner2{
+    display: flex;
+    margin-top: -20px;
+    justify-content: space-around;
+}
+
+.containerbanner2 .ipad .container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: -545px;
+    color: black;
+    font-size: 18px;
+}
+
+.containerbanner2 .ipad .container h1{
+    font-weight: 600;
+}
+
+.containerbanner2 .ipad .container h4{
+    font-weight: 500;
+    margin-top: -15px;
+}
+
+.containerbanner2 .ipad .container a{
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(0, 157, 255);
+}
+.containerbanner2 .container .linkipad a:hover{
+    text-decoration: underline;
+}
+
+.linkipad{
+    margin-top: -9px;
+
+}
+
+.containerbanner2 .vision .container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: -200px;
+    color: black;
+    font-size: 18px;
+}
+
+.containerbanner2 .vision .container h1{
+    font-weight: 600;
+}
+
+.containerbanner2 .vision .container h4{
+    font-weight: 500;
+    margin-top: -15px;
+}
+
+.containerbanner2 .vision .container a{
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(0, 157, 255);
+}
+.containerbanner2 .container .linkvision a:hover{
+    text-decoration: underline;
+}
+
+.linkipad{
+    margin-top: -9px;
+
+}
+.linkvision{
+    margin-top: -9px;
+}
+.footer{
+    margin-top: 64px;
+}
