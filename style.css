@@ -106,7 +106,7 @@ body{
 }
 
 .main .banner{
-    background-image: url(images/bannermac.png);
+    background-image: url(bannermac.png);
     height: 900px;
     background-repeat: no-repeat;
     background-position: center;
