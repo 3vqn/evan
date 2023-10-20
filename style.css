@@ -4,6 +4,8 @@
     justify-content: space-between;
     padding: 5px;
     text-wrap: wrap ;
+    position: sticky;
+    top: 0;
 }
 
 .navbarnav{
@@ -116,10 +118,10 @@ body{
     cursor: pointer;
 }
 img{
-    transition: transform 1.5s ease-in-out;
+    transition: box-shadow .3s;
 }
 .image img:hover{
-    transform: rotate(360deg);  
+    box-shadow: 0 0 11px gray;  
 }
 
 img{
